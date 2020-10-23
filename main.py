@@ -1,1 +1,2 @@
-print("Python funciona")
+print("\nPython funciona")
+print("Visual Code Funciona\n")
